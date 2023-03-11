@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deep Q networks in reinforcement learning**
 
-- 🌱 I’m currently learning **keras and tensorflow**
+- 🌱 I’m currently learning **computer vision projects**
 
 - 👯 I’m looking to collaborate on **machine learning projects**
 
